@@ -10,5 +10,6 @@ We'll apply all the knowledge from the lectures in this section to write a deep 
 #### Audio Books Classification
 It relates to the audio versions of books ONLY. Each customer in the database has made a purchase at least once, that's why he/she is in the database. We want to create a machine learning algorithm based on our available data that can predict if a customer will buy again from the Audiobook company.
 
-
+#### Absenteeism Prediction
+Explore if employee regularly staying away from work with a good reason or not.
 
